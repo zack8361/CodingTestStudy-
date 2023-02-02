@@ -5,6 +5,9 @@ import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
 
+/**
+ * K 번째수( Lv.1 )
+ */
 public class Programmers42748 {
     public static void main(String[] args) {
         int[] array = {1,5,2,6,3,7,4};
