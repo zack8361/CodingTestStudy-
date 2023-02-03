@@ -14,6 +14,7 @@ public class Programmers81302 {
             {"PXOPX", "OXOXP", "OXPOX", "OXXOP", "PXPOX"},
             {"OOOXX", "XOOOX", "OOOXX", "OXOOX", "OOOOO"},
             {"PXPXP", "XPXPX", "PXPXP", "XPXPX", "PXPXP"}};
+
         System.out.println(soultion(places));
     }
 
@@ -49,7 +50,6 @@ public class Programmers81302 {
             }
 
         }
-
         return answer;
     }
 
