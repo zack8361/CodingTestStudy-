@@ -39,7 +39,6 @@ public class Programmers42586 {
             }
         }
         list.add(count);
-        System.out.println(list);
 
         return answer;
     }
