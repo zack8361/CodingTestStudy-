@@ -6,8 +6,8 @@ import java.util.Arrays;
 
 public class carpet {
     public static void main(String[] args) {
-        int brown = 18;
-        int yellow = 6;
+        int brown = 10;
+        int yellow = 2;
         System.out.println(solution(brown,yellow));
     }
 
@@ -20,7 +20,6 @@ public class carpet {
                 list.add(i);
             }
         }
-        System.out.println(list);
 
         //짝수 일때.
         if(list.size() %2 ==0){
