@@ -4,10 +4,14 @@ import java.util.Stack;
 
 public class Main {
     public static void main(String[] args) {
-        Stack<String> stack = new Stack<>();
-        stack.push("sex");
-
-        stack.push("xes");
-
+        for(int i=0; i<10; i++){
+            if(i == 2){
+                continue;
+            }
+            else if(i==9){
+                break;
+            }
+            System.out.println(i);
+        }
     }
 }
