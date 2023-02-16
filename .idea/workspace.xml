@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92a04e79-db4b-48ab-bfe5-88e9355df6d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JordyCodingTest/longJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JordyCodingTest/parenthesesRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JordyCodingTest/moegosa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JordyCodingTest/plus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JordyCodingTest/tuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poscoXcodingon/watermellon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/JordyCodingTest/Camouflage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JordyCodingTest/Camouflage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JordyCodingTest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JordyCodingTest/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JordyCodingTest/parenthesesRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JordyCodingTest/parenthesesRotation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +109,8 @@
       <workItem from="1676273363478" duration="10202000" />
       <workItem from="1676284383102" duration="1807000" />
       <workItem from="1676377926767" duration="9068000" />
-      <workItem from="1676469108679" duration="4343000" />
+      <workItem from="1676469108679" duration="4478000" />
+      <workItem from="1676528359014" duration="13401000" />
     </task>
     <servers />
   </component>

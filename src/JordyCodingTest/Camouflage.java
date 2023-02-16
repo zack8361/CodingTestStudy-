@@ -11,19 +11,18 @@ public class Camouflage {
 
     private static int soltuion(String[][] clothes) {
         int answer = 1;
-        Map<String,Integer> map = new HashMap<>();
+        HashMap<String,Integer> map = new HashMap<>();
         for(int i=0; i<clothes.length; i++){
             if(map.get(clothes[i][1]) == null){
                 map.put(clothes[i][1],1);
             }
             else {
-                map.put(clothes[i][1],map.get(clothes[i][1])+1);
+                map.put(clothes[i][1],map.get(clothes[i][1]) + 1);
             }
         }
-        System.out.println(map);
-
-        for(String s: map.keySet()){
-            answer*=(map.get(s)+1);
+        //전체 경우의 수 = 각자 map 에 담겨있는 종류의 수 +1 * 다른 종류의 수;
+        for(String key: map.keySet()){
+            answer *= (map.get(key)+1);
         }
         answer--;
         return answer;

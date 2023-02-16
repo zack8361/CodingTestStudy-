@@ -10,31 +10,27 @@ public class parenthesesRotation {
 
     private static int solution(String s) {
         int answer = 0;
-
-        for (int j = 0; j < s.length(); j++) {
+        for (int i = 0; i < s.length(); i++) {
             ArrayDeque<Character> stack = new ArrayDeque<>();
-            if (j > 0) {
-                stack.addLast(stack.peekFirst());
-            }
-            for (int i = 0; i < s.length(); i++) {
+            String str = s.substring(i, s.length()) + s.substring(0, i);
+            for (int j = 0; j < str.length(); j++) {
+                char c = str.charAt(j);
                 if (stack.isEmpty()) {
-                    stack.push(s.charAt(i));
+                    stack.push(c);
+                } else if (c == ')' && stack.peek() == '(') {
+                    stack.pop();
+                } else if (c == '}' && stack.peek() == '{') {
+                    stack.pop();
+                } else if (c == ']' && stack.peek() == '[') {
+                    stack.pop();
                 } else {
-                    if (stack.peekLast() == '[' && s.charAt(i) == ']') {
-                        stack.pollLast();
-                    } else if (stack.peekLast() == '{' && s.charAt(i) == '}') {
-                        stack.pollLast();
-                    } else if (stack.peekLast() == '(' && s.charAt(i) == ')') {
-                        stack.pollLast();
-                    } else {
-                        stack.addLast(s.charAt(i));
-                    }
+                    stack.push(c);
                 }
             }
             if (stack.isEmpty()) {
                 answer++;
             }
         }
-             return answer;
+        return answer;
     }
 }
