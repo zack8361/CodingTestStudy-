@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92a04e79-db4b-48ab-bfe5-88e9355df6d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poscoXcodingOnJS/map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poscoXcodingon/MapEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poscoXcodingOnJS/PhoneNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poscoXcodingOnJS/filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poscoXcodingOnJS/find.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poscoXcodingOnJS/moegoSa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poscoXcodingOnJS/plusNumSeperate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poscoXcodingOnJS/reduce.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poscoXcodingon/Phone_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poscoXcodingon/plusNumSeperate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poscoXcodingon/watermellon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poscoXcodingOnJS/fruits.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JordyCodingTest/moegosa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JordyCodingTest/moegosa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +114,7 @@
       <workItem from="1676377926767" duration="9068000" />
       <workItem from="1676469108679" duration="4478000" />
       <workItem from="1676528359014" duration="13401000" />
-      <workItem from="1676783564848" duration="7480000" />
+      <workItem from="1676783564848" duration="16095000" />
     </task>
     <servers />
   </component>
