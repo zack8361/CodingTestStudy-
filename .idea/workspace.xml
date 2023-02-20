@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92a04e79-db4b-48ab-bfe5-88e9355df6d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/백준강사님추천/beensu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poscoXcodingOnJS/fruits.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/poscoXcodingOnJS/fruits.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/poscoXcodingOnJS/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/poscoXcodingOnJS/map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/백준강사님추천/beensu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준강사님추천/beensu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +114,7 @@
       <workItem from="1676863941166" duration="68000" />
       <workItem from="1676864016244" duration="1004000" />
       <workItem from="1676865154536" duration="235000" />
-      <workItem from="1676875816785" duration="6412000" />
+      <workItem from="1676875816785" duration="10249000" />
     </task>
     <servers />
   </component>

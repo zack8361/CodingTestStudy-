@@ -24,16 +24,15 @@
 
 function solution(array){
     let map = new Map(); //map 선언
-    
-    for(let i=0; i<array.length; i++){
-        if(map.get(array[i]) === null){
-            map.set(array[i],1);
-        }
-        else {
-            map.set(array[i],map.get(array[i])+1);
-        }
+
+    let max = 0;
+    for(let i = 0; i < array.length; i++){
+        map.set(array[i], (map.get(array[i])||0) +1);
     }
-    console.log(map);
+    let arr = [...map.values()];
+    arr.sort();
+    
+    console.log(arr)
 }
 
 let array = [1,2,3,3,3,4];

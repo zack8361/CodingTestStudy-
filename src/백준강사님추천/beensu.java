@@ -30,8 +30,6 @@ public class beensu {
                 return -1;
             }
         }
-
-
         return answer;
     }
 }
