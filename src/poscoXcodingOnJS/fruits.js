@@ -18,12 +18,13 @@ for(let i=0; i<fruits1.length; i++){
     }
 }
 console.log(totalSame);
-console.log(totalDiff)
+console.log(totalDiff);
 
 
 //자바 스크립트 형식
 let sameArr = [];
 let diffArr = [];
+
 
 fruits1.filter(value => {
     if(fruits2.includes(value)){
@@ -39,6 +40,7 @@ console.log(diffArr);
 //자바 스크립트 형식 re
 let sameAsArr = [];
 let diffAsArr = [];
+
 
 fruits1.filter(value => {
     if(fruits2.includes(value)){
