@@ -25,14 +25,14 @@
 function solution(array){
     let map = new Map(); //map 선언
 
-    let max = 0;
-    for(let i = 0; i < array.length; i++){
-        map.set(array[i], (map.get(array[i])||0) +1);
+    for(let i=0; i<array.length; i++){
+        if(map.get(array[i]) === undefined){
+
+        }
+        else {
+
+        }
     }
-    let arr = [...map.values()];
-    arr.sort();
-    
-    console.log(arr)
 }
 
 let array = [1,2,3,3,3,4];

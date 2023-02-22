@@ -32,3 +32,9 @@ function solution(answers) {
 }
 let answers = [1,2,3,4,5];
 console.log(solution(answers));
+
+
+
+
+
+
