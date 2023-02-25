@@ -15,6 +15,7 @@ public class CardAlot {
     private static String solution(String[] cards1, String[] cards2, String[] goal) {
         String yes = "Yes";
         String no = "No";
+String yes = "no"
 
         return no;
     }
