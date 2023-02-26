@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92a04e79-db4b-48ab-bfe5-88e9355df6d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/JordyCodingTest/CardAlot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JordyCodingTest/numberFriends.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poscoXcodingOnJS/map.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/poscoXcodingOnJS/map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poscoXcodingOnJS/moegoSa.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/poscoXcodingOnJS/moegoSa.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JordyCodingTest/CardAlot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JordyCodingTest/CardAlot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JordyCodingTest/tuple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JordyCodingTest/tuple.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,22 +117,14 @@
       <workItem from="1676875816785" duration="10249000" />
       <workItem from="1676970542394" duration="1043000" />
       <workItem from="1676992251152" duration="2090000" />
-      <workItem from="1677050571196" duration="12067000" />
+      <workItem from="1677050571196" duration="12166000" />
+      <workItem from="1677074284962" duration="1198000" />
+      <workItem from="1677145327320" duration="816000" />
+      <workItem from="1677229379825" duration="8654000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/JordyCodingTest/numberFriends.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

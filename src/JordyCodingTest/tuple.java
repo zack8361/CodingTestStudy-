@@ -1,52 +1,57 @@
 package JordyCodingTest;
 
 import java.lang.reflect.Array;
-import java.util.Arrays;
+import java.util.*;
 
 public class tuple {
     public static void main(String[] args) {
-        String[] keyinput = {"down","down","down","down","down"};
-        int[] board = {7,9};
-        System.out.println(solution(keyinput,board));
+        String s ="{{20,111},{111}}";
+        System.out.println(solution(s));
 
     }
 
-    private static int[] solution(String[] keyinput, int[] board) {
-
-        int[] answer = new int[2];
-        int x = board[0]/2;
-        int y = board[1]/2;
-
-        int gameX = 0;
-        int gameY = 0;
-
-
-        for(int i=0; i<keyinput.length; i++){
-            if(gameX>-x) {
-                if (keyinput[i].equals("left")) {
-                    gameX = gameX - 1;
-                }
+    private static int[] solution(String s) {
+        String num = "";
+        for(int i=0; i<s.length(); i++){
+            if(s.charAt(i) != '{' && s.charAt(i) != '}'){
+                num+=s.charAt(i);
             }
-            if(gameX<x) {
-                if (keyinput[i].equals("right")) {
-                    gameX = gameX + 1;
-                }
-            }
-                if(gameY<y) {
-                    if (keyinput[i].equals("up")) {
-                        gameY = gameY + 1;
-                    }
-                }
-                if(gameY>-y) {
-                    if (keyinput[i].equals("down")) {
-                        gameY = gameY - 1;
-                    }
-                }
         }
 
-        board[0] = gameX;
-        board[1] = gameY;
-        System.out.println(Arrays.toString(board));
-        return board;
+//        int[] arr = new int[str.length];
+//        for(int i=0; i<arr.length; i++){
+//            arr[i] = Integer.parseInt(str[i]);
+//        }
+//
+        String[] str = num.split(",");
+        HashMap<Integer,Integer> map = new HashMap<>();
+
+//        for(int i=0; i<str.length; i++){
+//            if(map.get(str[i]) == null){
+//                map.put(str[i],1);
+//            }
+//            else {
+//                map.put(str[i],map.get(str[i])+1);
+//            }
+//        }
+//
+//        int[] answer = new int[map.size()];
+//        int index = 0;
+//        for(String i: map.keySet()){
+//            answer[index++] = map.get(i);
+//        }
+//        Integer[] answer2 = Arrays.stream(answer).boxed().toArray(Integer[]::new);
+//        Arrays.sort(answer2, Collections.reverseOrder());
+//        System.out.println(Arrays.toString(answer2));
+//
+//        int[] realAns = new int[answer.length];
+//        for(int i=0; i<answer.length; i++){
+
+//
+//        }
+
+        int[] answer = {};
+        return answer;
+
     }
 }
