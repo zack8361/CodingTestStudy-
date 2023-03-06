@@ -19,6 +19,7 @@ public class Tangerine {
             else {
                 map.put(tangerine[i],map.get(tangerine[i])+1);
             }
+            System.out.println(map.get(tangerine[i]));
         }
         int[] arr = new int[map.size()];
         int a = 0;
