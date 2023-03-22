@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92a04e79-db4b-48ab-bfe5-88e9355df6d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/newProgrammers/안전지대.java" afterDir="false" />
+    <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/바탕화면정리.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
