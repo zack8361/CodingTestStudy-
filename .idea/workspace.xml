@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92a04e79-db4b-48ab-bfe5-88e9355df6d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/OX퀴즈.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/다음에올숫자.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/연속된수의합.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/평행.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newProgrammers/안전지대.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -146,7 +143,6 @@
       <workItem from="1679271835777" duration="2402000" />
       <workItem from="1679274773019" duration="1300000" />
       <workItem from="1679276778397" duration="1061000" />
-      <workItem from="1679469155109" duration="9456000" />
     </task>
     <servers />
   </component>
