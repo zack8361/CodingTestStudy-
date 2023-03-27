@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/바탕화면정리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/광물캐기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers1단계/공원산책.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -71,7 +73,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="92a04e79-db4b-48ab-bfe5-88e9355df6d2" name="Changes" comment="" />
+      <changelist id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="" />
       <created>1674918795496</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -143,10 +145,27 @@
       <workItem from="1679271835777" duration="2402000" />
       <workItem from="1679274773019" duration="1300000" />
       <workItem from="1679276778397" duration="1061000" />
+      <workItem from="1679562426271" duration="7076000" />
+      <workItem from="1679908332644" duration="2960000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Programmers0단계/광물캐기.java</url>
+          <line>11</line>
+          <properties class="Programmers0단계.광물캐기" method="solution">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
