@@ -8,7 +8,6 @@ public class OX퀴즈 {
 
     private static String[] solution(String[] quiz) {
 
-
         String[] stray = {};
         return stray;
     }
