@@ -19,16 +19,15 @@ public class 공원산책 {
         int x = 0;
         int y = 0;
 
-        for(int i = 0; i<round.length; i++){
-            for(int j=0; j<round[i].length; j++){
-                if(round[i][j].equals("S")){
+        for(int i = 0; i<round.length; i++) {
+            for (int j = 0; j < round[i].length; j++) {
+                if (round[i][j].equals("S")) {
                     x = i;
                     y = j;
                     break;
                 }
             }
         }
-
         // X 를 만나거나
         // 추가되어서 2를 넘어가거나 두개만 예외처리 하면돼
 
