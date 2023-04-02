@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/HwangYoonGelRas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/비밀지도.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/추억점수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers1단계/구현능력검사1번.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers1단계/추억점수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers1단계/구현능력검사2번.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/과제진행학디.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers1단계/공원산책.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers1단계/공원산책.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +50,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.구현능력검사1번">
+  <component name="RunManager">
     <configuration name="구현능력검사1번" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers1단계.구현능력검사1번" />
       <module name="CodingTestStudy" />
@@ -173,6 +168,7 @@
       <workItem from="1680102553228" duration="1206000" />
       <workItem from="1680183854419" duration="4046000" />
       <workItem from="1680337094853" duration="4700000" />
+      <workItem from="1680422272964" duration="7772000" />
     </task>
     <servers />
   </component>
