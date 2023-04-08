@@ -14,7 +14,8 @@ public class 프린터 {
         int answer = priorities[location];
         ArrayDeque<Integer> deque = new ArrayDeque<>();
         for(int i=0; i<priorities.length; i++){
-            
+            sout
+                    
         }
         return 0;
     }
