@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Programmers1단계/달리기경주.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers2단계/프린터.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers2단계/프린터.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers2단계/프린터.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="구현능력검사1번" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers1단계.구현능력검사1번" />
       <module name="CodingTestStudy" />
@@ -168,7 +169,8 @@
       <workItem from="1680183854419" duration="4046000" />
       <workItem from="1680337094853" duration="4700000" />
       <workItem from="1680422272964" duration="12220000" />
-      <workItem from="1680954812740" duration="21000" />
+      <workItem from="1680954812740" duration="47000" />
+      <workItem from="1682073303801" duration="4075000" />
     </task>
     <servers />
   </component>
