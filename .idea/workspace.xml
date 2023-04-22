@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers1단계/달리기경주.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers1단계/달리기경주2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers1단계/덧칠하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers2단계/프린터.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers1단계/달리기경주.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers1단계/달리기경주.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +171,8 @@
       <workItem from="1680337094853" duration="4700000" />
       <workItem from="1680422272964" duration="12220000" />
       <workItem from="1680954812740" duration="47000" />
-      <workItem from="1682073303801" duration="4075000" />
+      <workItem from="1682073303801" duration="4098000" />
+      <workItem from="1682140317331" duration="11253000" />
     </task>
     <servers />
   </component>
