@@ -26,18 +26,11 @@ public class 달리기경주 {
                 }
             }
         }
-        ArrayList<String> keySet = new ArrayList<>(map.keySet());
-        keySet.sort(new Comparator<String>() {
-            @Override
-            public int compare(String o1, String o2) {
-                return map.get(o1).compareTo(map.get(o2));
-            }
-        });
+
+
         String[] str = new String[players.length];
-        int i = 0;
-        for(String key : keySet){
-            str[i++] = key;
-        }
+
+
 
         return str;
     }

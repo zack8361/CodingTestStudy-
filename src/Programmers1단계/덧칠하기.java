@@ -1,27 +1,31 @@
 package Programmers1단계;
 
+import java.util.ArrayList;
+import java.util.List;
+
+// 윤규 풀이
+//
 public class 덧칠하기 {
     public static void main(String[] args) {
-        int n = 4;
-        int m = 1;
-        int[] section = {1,2,3,4};
+        int n = 8;
+        int m = 4;
+        int[] section = {2,3,6};
         System.out.println(solution(n,m,section));
     }
 
     private static int solution(int n, int m, int[] section) {
-        int first = section[0];
-        int end = section[section.length-1];
-        int total = end-first+1;
-
-        if(total<=m){
-            return 1;
+        List<Integer> list = new ArrayList<>();
+        for(int i=0; i<section.length; i++){
+            list.add(section[i]);
         }
-        else {
-            if(total%m != 0){
-                return total/m + 1;
+        int i=0;
+        while (!list.isEmpty()){
+            int temp = list.get(0);
+            for(int j=0; j<m; j++){
+                list.remove((Integer)(temp +  j));
             }
-            return  total/m;
+            i++;
         }
-
+        return i;
     }
 }

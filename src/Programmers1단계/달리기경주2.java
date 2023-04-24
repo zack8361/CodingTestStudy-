@@ -31,6 +31,7 @@ public class 달리기경주2 {
         for(int i=0; i<str.length; i++){
             str[i] = map2.get(i);
         }
+
         return str;
     }
 }
