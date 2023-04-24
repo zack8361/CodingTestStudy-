@@ -6,8 +6,8 @@ import java.util.HashMap;
 
 public class 대충만든자판 {
     public static void main(String[] args) {
-        String[] keymap = {"ABACD", "BCEFD"};
-        String[] targets = {"ABCD","AABB"};
+        String[] keymap = {"AGZ"};
+        String[] targets = {"YGZ","BSSS"};
         System.out.println(solution(keymap,targets));
     }
 
@@ -28,9 +28,6 @@ public class 대충만든자판 {
                                 map.put(targets[i].charAt(j), k + 1);
                             }
                         }
-                        else {
-                            return
-                        }
                     }
                 }
             }
@@ -47,6 +44,7 @@ public class 대충만든자판 {
             }
             arr[i] = count;
         }
+        
         return  arr;
     }
 }

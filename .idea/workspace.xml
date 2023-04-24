@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers1단계/대충만든자판.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers1단계/둘만의암호.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/문자열밀기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/배열조각하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/이차원배열순회하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers1단계/달리기경주.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers1단계/달리기경주.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers1단계/달리기경주2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers1단계/달리기경주2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers1단계/덧칠하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers1단계/덧칠하기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers1단계/대충만든자판.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers1단계/대충만든자판.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +175,7 @@
       <workItem from="1682073303801" duration="4098000" />
       <workItem from="1682140317331" duration="13021000" />
       <workItem from="1682238830708" duration="12267000" />
+      <workItem from="1682309536178" duration="4906000" />
     </task>
     <servers />
   </component>
