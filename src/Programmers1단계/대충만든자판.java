@@ -44,7 +44,7 @@ public class 대충만든자판 {
             }
             arr[i] = count;
         }
-        
+
         return  arr;
     }
 }

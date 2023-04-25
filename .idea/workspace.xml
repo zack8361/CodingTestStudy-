@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/문자열밀기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/배열조각하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/이차원배열순회하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/타겟넘버탐색.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/행렬의곱.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Programmers1단계/대충만든자판.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers1단계/대충만든자판.java" afterDir="false" />
     </list>
@@ -52,7 +51,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="구현능력검사1번" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers1단계.구현능력검사1번" />
       <module name="CodingTestStudy" />
@@ -175,7 +174,8 @@
       <workItem from="1682073303801" duration="4098000" />
       <workItem from="1682140317331" duration="13021000" />
       <workItem from="1682238830708" duration="12267000" />
-      <workItem from="1682309536178" duration="4906000" />
+      <workItem from="1682309536178" duration="10858000" />
+      <workItem from="1682341417490" duration="5406000" />
     </task>
     <servers />
   </component>
