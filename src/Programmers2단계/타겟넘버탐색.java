@@ -2,7 +2,7 @@ package Programmers2단계;
 
 import java.util.Arrays;
 
-class Solution {
+class Solutions {
     static int answer = 1;
     public static void main(String[] args) {
         int[] numbers = {4,1,2,1};

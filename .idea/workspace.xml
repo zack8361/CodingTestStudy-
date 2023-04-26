@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/게임맵최단거리.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/조르디BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/황윤겔라ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/황윤겔라ex2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers2단계/게임맵최단거리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers2단계/게임맵최단거리.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers2단계/조르디BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers2단계/조르디BFS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Programmers2단계/타겟넘버탐색.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers2단계/타겟넘버탐색.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +51,8 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RunManager">
@@ -178,6 +181,8 @@
       <workItem from="1682309536178" duration="10858000" />
       <workItem from="1682341417490" duration="5406000" />
       <workItem from="1682411211941" duration="5790000" />
+      <workItem from="1682436923530" duration="4293000" />
+      <workItem from="1682489813083" duration="6857000" />
     </task>
     <servers />
   </component>
