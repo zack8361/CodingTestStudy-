@@ -45,10 +45,12 @@ public class Solution {
                 }
                 if(!visited[nx][ny]) {
                     visited[nx][ny] = true;
+                    deque.addLast(new Node(nx,ny));
+                    answer[nx][ny] = answer[now.x][now.y] + 1;
                 }
             }
         }
 
-        return 0;
+        return answer[N-1][M-1] == 0 ? -1 : answer[N-1][M-1];
     }
 }

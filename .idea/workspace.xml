@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/황윤겔라ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/황윤겔라ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SSAFYD2/SNAIL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers2단계/게임맵최단거리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers2단계/게임맵최단거리.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers2단계/조르디BFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers2단계/조르디BFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers2단계/타겟넘버탐색.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers2단계/타겟넘버탐색.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers2단계/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers2단계/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +178,9 @@
       <workItem from="1682341417490" duration="5406000" />
       <workItem from="1682411211941" duration="5790000" />
       <workItem from="1682436923530" duration="4293000" />
-      <workItem from="1682489813083" duration="6857000" />
+      <workItem from="1682489813083" duration="7187000" />
+      <workItem from="1682501922440" duration="471000" />
+      <workItem from="1682528713035" duration="4261000" />
     </task>
     <servers />
   </component>
