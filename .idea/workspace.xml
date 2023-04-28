@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SSAFYD2/게임맵최단거리.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFYD2/땅따먹기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFYD2/부대복귀.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFYD2/연구소.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SSAFYD2/접두사번호.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/dfsEX01.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SSAFYD2/피로도.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SSAFYD2/피로도.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SSAFYD2/연구소.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SSAFYD2/연구소.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +51,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="DFSBFS" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="구현능력검사1번" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programmers1단계.구현능력검사1번" />
@@ -186,7 +187,7 @@
       <workItem from="1682501922440" duration="471000" />
       <workItem from="1682528713035" duration="4465000" />
       <workItem from="1682565360803" duration="13746000" />
-      <workItem from="1682659803976" duration="9363000" />
+      <workItem from="1682659803976" duration="11496000" />
     </task>
     <servers />
   </component>

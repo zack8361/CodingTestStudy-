@@ -45,5 +45,6 @@ public class 연구소 {
                 map2[i][j] = map[i][j];
             }
         }
+    return 0;
     }
 }
