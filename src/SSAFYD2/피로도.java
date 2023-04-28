@@ -21,7 +21,6 @@ public class 피로도 {
                 visited[i] = true;
                 dfs(depth+1,k-dungeons[i][1],dungeons);
                 visited[i] = false;
-                
             }
         }
         count = Math.max(count,depth);
