@@ -4,8 +4,6 @@ package Programmers2단계;
 public class 황윤겔라ex1 {
     public static void main(String[] args) {
         int m = 5;
-
-
         int sum = 1;
         System.out.println(factorial(m,sum));
     }
