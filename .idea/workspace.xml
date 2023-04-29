@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/dfsEX01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/두개뽑아서더하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/소수찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/윤규질문.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/최소직사각형지갑.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/혼자풀어보기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers0단계/안전지대.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SSAFYD2/연구소.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SSAFYD2/연구소.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers2단계/게임맵최단거리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers2단계/게임맵최단거리.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers2단계/조르디DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers2단계/조르디DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SSAFYD2/SNAIL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SSAFYD2/SNAIL.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +195,10 @@
       <workItem from="1682501922440" duration="471000" />
       <workItem from="1682528713035" duration="4465000" />
       <workItem from="1682565360803" duration="13746000" />
-      <workItem from="1682659803976" duration="11496000" />
+      <workItem from="1682659803976" duration="12298000" />
+      <workItem from="1682699167991" duration="606000" />
+      <workItem from="1682747598637" duration="13121000" />
+      <workItem from="1682762084311" duration="6700000" />
     </task>
     <servers />
   </component>

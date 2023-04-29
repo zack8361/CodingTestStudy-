@@ -30,10 +30,10 @@ public class SNAIL {
             x = x + dx[dir];
             y = y + dy[dir];
         }
+
         for(int i=0; i<n; i++){
             System.out.println(Arrays.toString(map[i]));
         }
-
         return 0;
     }
 }

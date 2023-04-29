@@ -1,7 +1,6 @@
 package Programmers2단계;
 
 public class 조르디DFS {
-
     private static int[][] computer;
     private  static boolean[]visited;
     public static void main(String[] args) {
@@ -27,7 +26,6 @@ public class 조르디DFS {
             return;
         }
         visited[now] = true; // 방문처리 해준다.
-
         for(int i=0; i<computer.length; i++){
             if(computer[now][i] == 1){
                 dfs(i);
