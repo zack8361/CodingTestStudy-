@@ -8,24 +8,25 @@ public class 두개뽑아서더하기 {
     private static ArrayList<Integer> list;
     private static boolean[] visited;
     public static void main(String[] args) {
-        int[] numbers = {2,1,3,4,1};
-        System.out.println(solution(numbers));
+        int[] array = {1, 2, 3, 4, 5};
+        boolean[] visited = new boolean[array.length];
+        combination(array, visited, 0, array.length, 3);
     }
 
-    private static int[] solution(int[] numbers) {
-        list = new ArrayList<>();
-        int[] map = new int[numbers.length];
-        visited = new boolean[numbers.length];
-        dfs(map,0);
-        return new int[3];
-    }
-
-    private static void dfs(int[] map, int depth) {
-        if (depth == map.length){
-            System.out.println(Arrays.toString(map));
+    private static void combination(int[] arr, boolean[] visited, int start, int n, int r) {
+        if (r == 0) {
+            int sum = 0;
+            for (int i = 0; i < arr.length; i++) {
+                if (visited[i]) {
+                    sum+=arr[i];
+                }
+            }
+            System.out.println(sum);
         }
-        for(int i=0; i<2; i++){
-            
+        for (int i = start; i < n; i++) {
+            visited[i] = true;
+            combination(arr, visited, i + 1, n, r - 1);
+            visited[i] = false;
         }
     }
 }
