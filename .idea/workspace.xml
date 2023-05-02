@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SWEAD2/간단한369게임.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEAD2/달팽이숫자.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEAD2/백만장자프로젝트.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEAD2/어디에단어가들어갈수있을까.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEAD2/어디에들어갈수있을까정답.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEAD2/최빈수구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEAD2/파리퇴치.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEAD2/파리퇴치bfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEAD2/파리퇴치정답.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD2/초심자의회문검사.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD2/파스칼의삼각형.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD2/패턴마디의길이.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -201,7 +195,8 @@
       <workItem from="1682937039571" duration="1185000" />
       <workItem from="1682938238980" duration="2914000" />
       <workItem from="1682955415402" duration="4500000" />
-      <workItem from="1683004168648" duration="19366000" />
+      <workItem from="1683004168648" duration="20173000" />
+      <workItem from="1683040769816" duration="4805000" />
     </task>
     <servers />
   </component>
