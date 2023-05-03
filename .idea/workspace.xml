@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SWEAD2/초심자의회문검사.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEAD2/파스칼의삼각형.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEAD2/패턴마디의길이.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD2/간단한압축풀기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD2/날짜계산기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD2/두개의숫자열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD2/배열회전하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD2/배열회전하기이찬호방식.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD2/수도요금귀찮은문제.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD2/쉬운거스름돈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD2/조교의성적매기기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD2/조교의성적매기기정답.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD2/중간평균값구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD2/지그재그숫자.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -196,7 +204,9 @@
       <workItem from="1682938238980" duration="2914000" />
       <workItem from="1682955415402" duration="4500000" />
       <workItem from="1683004168648" duration="20173000" />
-      <workItem from="1683040769816" duration="4805000" />
+      <workItem from="1683040769816" duration="5011000" />
+      <workItem from="1683086273428" duration="5792000" />
+      <workItem from="1683092104342" duration="13477000" />
     </task>
     <servers />
   </component>
