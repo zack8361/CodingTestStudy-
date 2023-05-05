@@ -20,7 +20,7 @@ public class 내리막길 {
                 map[i][j] = sc.nextInt();
             }
         }
-        
+
     }
 
 }
