@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/SWEAD3/문제해결2일차Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD3/부분수열의합.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD3/요격시스템.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SWEAD3/햄버걸다이어트.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEAD3/햄버걸다이어트.java" afterDir="false" />
     </list>
@@ -198,7 +201,8 @@
       <workItem from="1683086273428" duration="5792000" />
       <workItem from="1683092104342" duration="13942000" />
       <workItem from="1683135675566" duration="31736000" />
-      <workItem from="1683279514850" duration="1310000" />
+      <workItem from="1683279514850" duration="1556000" />
+      <workItem from="1683360070862" duration="8360000" />
     </task>
     <servers />
   </component>

@@ -24,6 +24,8 @@ public class 햄버걸다이어트 {
             for(int i=0; i<taste.length; i++){
                 dfs(taste,cal,visited,0,0,i+1);
             }
+
+            System.out.println();
             int max = 0;
             int max2 = 0;
             for(int i:map.keySet()){
