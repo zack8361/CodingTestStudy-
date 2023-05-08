@@ -33,9 +33,11 @@ public class 부분수열의합 {
             int sum = 0;
             for(int i=0; i<arr.length; i++){
                 if(visited[i]){
+                    System.out.print(arr[i] +" ");
                     sum+=arr[i];
                 }
             }
+            System.out.println("sum = " + sum);
             if(sum == K){
                 answer++;
             }
