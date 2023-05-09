@@ -32,6 +32,7 @@ class 게임맵최단거리 {
          visited[0][0] = true;
          dist[0][0] = 1;
          queue.addLast(new Node(0,0));
+
          while (!queue.isEmpty()){
              Node now = queue.pollFirst(); // 현재 정점 꺼낸다
              for(int i=0; i<4; i++){
