@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/백준쿼드트리현대문제.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/설탕배달.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/조랭이문제.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준실버4/만들기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준실버4/설탕배달.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준실버4/한수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/배열자르기2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/연속부분수열합의개수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/튜플.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD3/문제해결3일차회문2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준골드4/익지않는틈에이러.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준실버4/소수구하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/백준실버4/만들기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준실버4/만들기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,6 +211,8 @@
       <workItem from="1683606718564" duration="22154000" />
       <workItem from="1683650238789" duration="5896000" />
       <workItem from="1683694219729" duration="12696000" />
+      <workItem from="1683728056997" duration="5561000" />
+      <workItem from="1683790408190" duration="11344000" />
     </task>
     <servers />
   </component>
@@ -227,6 +230,11 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/백준골드4/익지않는틈에이러.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
