@@ -13,5 +13,6 @@ public class practice {
             arr[i] = sc.nextInt();
         }
 
+            System.out.println(Arrays.toString(arr));
     }
 }

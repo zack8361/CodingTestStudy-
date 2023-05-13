@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/고득점kit스택큐/practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/고득점kit스택큐/프로세스.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/고득점kit해시/ex1폰켓몬.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/고득점kit해시/베스트앨범.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/고득점kit해시/완주하지못한선수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/고득점kit해시/의상.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/고득점kit해시/전화번호목록.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/고득점kit스택큐/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/고득점kit스택큐/practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,6 +209,7 @@
       <workItem from="1683790408190" duration="11655000" />
       <workItem from="1683810088771" duration="55000" />
       <workItem from="1683860759676" duration="13958000" />
+      <workItem from="1683933718504" duration="1415000" />
     </task>
     <servers />
   </component>
