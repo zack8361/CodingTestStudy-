@@ -5,18 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/네트워크DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/최장경로DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEAD3/단조증가하는수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEAD3/붕어빵문제.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEAD3/최장경로.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/우선순위큐/ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/우선순위큐/ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/우선순위큐/디펜스게임.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/우선순위큐/백준최대힙.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/우선순위큐/백준최소힙.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/우선순위큐/프로세스.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SORT/H인덱스.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SORT/K번째수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SORT/가장큰수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/완전탐색/최소직사각형.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/우선순위큐/다리를지나는트럭.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/우선순위큐/징검다리건너기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/우선순위큐/징검다리건너기정답.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/우선순위큐/프로세스.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/우선순위큐/프로세스.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,23 +41,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="DFSBFS" />
@@ -221,7 +218,9 @@
       <workItem from="1683810088771" duration="55000" />
       <workItem from="1683860759676" duration="13958000" />
       <workItem from="1683933718504" duration="1415000" />
-      <workItem from="1684130596613" duration="15726000" />
+      <workItem from="1684130596613" duration="15795000" />
+      <workItem from="1684211832750" duration="9625000" />
+      <workItem from="1684229881951" duration="4348000" />
     </task>
     <servers />
   </component>
