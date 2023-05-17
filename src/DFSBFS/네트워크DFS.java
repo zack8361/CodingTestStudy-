@@ -27,7 +27,6 @@ public class 네트워크DFS {
     private static void dfs(int now){
 
         if(visited[now]){
-            System.out.println(now);
             return;
         }
         visited[now] = true;

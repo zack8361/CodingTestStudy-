@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SORT/H인덱스.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SORT/K번째수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SORT/가장큰수.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/완전탐색/최소직사각형.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/우선순위큐/다리를지나는트럭.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/우선순위큐/징검다리건너기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/우선순위큐/징검다리건너기정답.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/최장경로.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SWEAD3/수의새로운연산.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/우선순위큐/프로세스.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/우선순위큐/프로세스.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFSBFS/네트워크DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFSBFS/네트워크DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SWEAD3/최장경로.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEAD3/최장경로.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,6 +217,7 @@
       <workItem from="1684130596613" duration="15795000" />
       <workItem from="1684211832750" duration="9625000" />
       <workItem from="1684229881951" duration="4348000" />
+      <workItem from="1684309013377" duration="8509000" />
     </task>
     <servers />
   </component>
