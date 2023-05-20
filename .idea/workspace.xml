@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SWEAD3/거듭제곱.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SWEAD3/오셀로.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newSWEAD2/달팽이숫자.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newSWEAD2/어디에단어가들어갈수있을까.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newSWEAD2/최빈수구하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newSWEAD2/파리퇴치.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newSWEAD2/새로운불면증치료법.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준실버2/DFS와BFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준실버2/가장긴증가하는부분수열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준실버2/스택수열.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준실버2/유기추배농.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SWEAD3/수의새로운연산.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +220,8 @@
       <workItem from="1684229881951" duration="4348000" />
       <workItem from="1684309013377" duration="8895000" />
       <workItem from="1684385446589" duration="72000" />
-      <workItem from="1684394797379" duration="10468000" />
+      <workItem from="1684394797379" duration="11936000" />
+      <workItem from="1684477931161" duration="14315000" />
     </task>
     <servers />
   </component>
