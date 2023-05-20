@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/newSWEAD2/새로운불면증치료법.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준실버2/DFS와BFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준실버2/가장긴증가하는부분수열.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준실버2/스택수열.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준실버2/유기추배농.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/DFS기본.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/네트워크혼자풀기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS/연결요소의개수DFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준실버2/연속합.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFSBFS/네트워크DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFSBFS/네트워크DFS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +221,9 @@
       <workItem from="1684309013377" duration="8895000" />
       <workItem from="1684385446589" duration="72000" />
       <workItem from="1684394797379" duration="11936000" />
-      <workItem from="1684477931161" duration="14315000" />
+      <workItem from="1684477931161" duration="14938000" />
+      <workItem from="1684580302538" duration="3098000" />
+      <workItem from="1684589871714" duration="3626000" />
     </task>
     <servers />
   </component>
