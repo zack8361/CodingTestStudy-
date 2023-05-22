@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/DFS기본.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/네트워크혼자풀기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS/연결요소의개수DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준실버2/연속합.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준재귀/hashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/싸피시험/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/싸피시험/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/싸피시험/ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/싸피시험/ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/주차1/HashMap의시간복잡도.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/주차1/구간합구하기4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/주차1/구간합구하기4PrefixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/주차1/백준개똥벌레.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/주차1/시간복잡도계산.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DFSBFS/네트워크DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFSBFS/네트워크DFS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,10 +53,10 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -223,7 +228,11 @@
       <workItem from="1684394797379" duration="11936000" />
       <workItem from="1684477931161" duration="14938000" />
       <workItem from="1684580302538" duration="3098000" />
-      <workItem from="1684589871714" duration="3626000" />
+      <workItem from="1684589871714" duration="3872000" />
+      <workItem from="1684643479794" duration="8402000" />
+      <workItem from="1684688937306" duration="454000" />
+      <workItem from="1684689875632" duration="23000" />
+      <workItem from="1684737571872" duration="10814000" />
     </task>
     <servers />
   </component>
@@ -249,6 +258,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CodingTestStudy$DFS.ic" NAME="최장경로DFS Coverage Results" MODIFIED="1684141605347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
