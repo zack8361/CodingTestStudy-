@@ -15,10 +15,19 @@ public class 주식가격 {
 
 
         for(int i=answer.length-1; i>= 0; i--){
-            
-        }
-        System.out.println("deque = " + deque);
+            int count = 0;
+            if(deque.isEmpty()){
+                deque.addLast(prices[i]);
+                answer[i] = 0;
+            }
+            else {
+                while (!deque.isEmpty() && prices[i]<deque.peekLast()){
 
+                }
+            }
+
+            deque.addLast(prices[i]);
+        }
         System.out.println(Arrays.toString(answer));
 
         return new int[0];
