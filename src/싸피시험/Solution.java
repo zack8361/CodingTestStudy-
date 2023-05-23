@@ -8,64 +8,40 @@ public class Solution {
         int T = sc.nextInt(); // tc 개수
 
         for(int tc=1; tc<=T; tc++){
-            List<Integer> position = new ArrayList<>();
-            List<Integer> strong = new ArrayList<>();
             int N = sc.nextInt();
+            int max = -1;
+            HashMap<Integer,Integer> map = new HashMap<>();
             for(int i=0; i<N; i++){
                 int a = sc.nextInt();
                 int b = sc.nextInt();
-                position.add(a);
-                strong.add(b);
+                max = Math.max(max, a);
+                map.put(a,b);
             }
-            int [] arr = new int[position.get(position.size()-1)+1];
 
-            for(int i=0; i< position.size(); i++) {
-                arr[position.get(i)] = strong.get(i);
+            System.out.println(map);
+            int[] arr = new int[max];
+            for (int i : map.keySet()) {
+                arr[i-1] = map.get(i);
             }
-            int result = calc(arr,position,strong);
-            System.out.println("#" + tc + " "+ result);
+            System.out.println(Arrays.toString(arr));
+            int count = 0;
 
-        }
-
-    }
-    public static int calc(int [] arr, List<Integer> position, List<Integer> strong) {
-        int count =0;
-        while(!isComplete(arr)) {
-            int nowPosition = position.get(0);
-            position.remove((Integer) nowPosition);
-            int nowStrong = strong.get(0);
-            strong.remove((Integer) nowStrong);
-            count++;
-            arr[nowPosition] = 0;
-            try {
-                for (int j = nowPosition+1; j <= nowPosition + nowStrong; j++) { // 현재 발사기가 박살났을 때 결과
-                    if (arr[j] == 0) {
-                        continue;
-                    } else {
-                        int nowPosition1 = position.get(0);
-                        if(nowPosition1 == j) {
-                            position.remove((Integer) nowPosition1);
-                            int nowStrong1 = strong.get(0);
-                            strong.remove((Integer) nowStrong1);
+            for(int i=0; i<arr.length; i++){
+                int misayle = arr[i];
+                if(arr[i] != 0) {
+                    count++;
+                    try {
+                        for (int j = 0; j <= misayle; j++) {
+                            arr[i + j] = 0;
                         }
-                        arr[j] = 0;
+                    }
+                    catch (Exception e){
                     }
                 }
-            } catch (Exception e) {
-                continue;
             }
+
+            System.out.println(count);
+            System.out.println(Arrays.toString(arr));
         }
-
-        return count;
-
-    }
-
-    public static boolean isComplete(int [] arr) {
-        for(int i=0; i< arr.length; i++) {
-            if(arr[i] != 0) {
-                return false;
-            }
-        }
-        return true;
     }
 }
