@@ -26,7 +26,7 @@ public class 피로도 {
         max = Math.max(max,depth);
         System.out.println(sum);
         visited[now] = true;
-        
+
         for (int i = 0; i < map.length; i++) {
             if(!visited[i] && map[i][0]<=sum){
                 dfs(i,depth+1,sum-map[i][1],map);
