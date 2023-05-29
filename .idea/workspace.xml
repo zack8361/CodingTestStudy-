@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/JadenCase문자열.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/KAKAOBLIND압축.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/땅따먹기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers1단계/신고결과받기2022KAKAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/n2배열자르기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/방문길이.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers2단계/전화번호목록.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers2단계/피로도.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers2단계/피로도.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Programmers2단계/JadenCase문자열.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers2단계/JadenCase문자열.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,6 +236,8 @@
       <workItem from="1685169436842" duration="10787000" />
       <workItem from="1685254982014" duration="4000" />
       <workItem from="1685269058858" duration="5569000" />
+      <workItem from="1685297546735" duration="29000" />
+      <workItem from="1685337746042" duration="17005000" />
     </task>
     <servers />
   </component>

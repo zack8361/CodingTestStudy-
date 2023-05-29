@@ -21,6 +21,6 @@ public class JadenCase문자열 {
 
         }
 
-        return null;
+        return "123";
     }
 }
