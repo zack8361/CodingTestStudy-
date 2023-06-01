@@ -1,46 +1,41 @@
 package Programmers2단계;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 
 public class 모음사전 {
-    private static String[] output;
-    private static int cnt = 0;
-    private static boolean[] visited;
-    private static HashMap<String ,Integer> map;
     public static void main(String[] args) {
         String word = "AAAAE";
         System.out.println(solution(word));
     }
 
+    private static String[] arr;
+    private static ArrayList<String> list;
+
     private static int solution(String word) {
+        list=new ArrayList<>();
+        arr = new String[]{"A", "E", "I", "O", "U"};
         int answer = 0;
-        String[] alp = {"A","E","I","O","U"};
-        output = new String[alp.length];
-        visited = new boolean[alp.length];
-        map = new HashMap<>();
-        dfs(0,0,alp);
-        System.out.println(map);
+        dfs(word,"",0);
+
+        for (int i = 0; i < list.size(); i++) {
+            if(list.get(i).equals(word)){
+                answer = i;
+            }
+        }
         return answer;
     }
 
-    private static void dfs(int count,int depth ,String[] alp) {
-        
-        String s = "";
-        for (int i = 0; i < output.length; i++) {
-            s+=output[i];
-        }
-        map.put(s,cnt);
-        cnt++;
-
-        if(count == 5){
+    private static void dfs(String word, String str, int depth) {
+        list.add(str);
+        System.out.println("str = " + str);
+        if(depth == 5){
             return;
         }
-        for (int i = 0; i < alp.length; i++) {
-            if(!visited[i]){
-                output[depth] = alp[i];
-                dfs(count+1,depth+1,alp);
-            }
+        for (int i = 0; i < arr.length; i++) {
+            dfs(word,str + arr[i],depth+1);
         }
+
     }
 }
