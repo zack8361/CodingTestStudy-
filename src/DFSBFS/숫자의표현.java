@@ -18,6 +18,7 @@ public class 숫자의표현 {
 
     private static void dfs(int n, int sum) {
         if(sum == n){
+
             answer++;
         }
         else if(sum<n){

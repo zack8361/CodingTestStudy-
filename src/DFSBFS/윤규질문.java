@@ -1,5 +1,6 @@
 package DFSBFS;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class 윤규질문 {
@@ -22,6 +23,7 @@ public class 윤규질문 {
 
     private static void dfs(int depth, String[] arr) {
 
+        
         int count = 0;
         if(depth == arr.length){
             System.out.println(Arrays.toString(str));

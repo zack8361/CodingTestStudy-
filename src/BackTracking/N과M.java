@@ -1,5 +1,6 @@
 package BackTracking;
 
+import java.util.ArrayDeque;
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -14,6 +15,7 @@ public class N과M {
         dfs(N,M,"");
     }
 
+
     private static void dfs(int n, int m, String s) {
         if(s.length() == 4){
             System.out.println(s);
@@ -21,11 +23,7 @@ public class N과M {
         }
 
         for (int i = 1; i <= n; i++) {
-            if(visited[i+1]) {
-                visited[i+1] = true;
                 dfs(n, m, s + " " + i);
-                visited[i+1] = false;
-            }
         }
     }
 }
