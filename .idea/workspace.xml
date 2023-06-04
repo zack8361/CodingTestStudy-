@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BackTracking/백준알파벳.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS2/네트워크.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS2/타겟넘버.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -280,11 +281,6 @@
           <url>file://$PROJECT_DIR$/src/백준골드4/익지않는틈에이러.java</url>
           <line>61</line>
           <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BackTracking/백준알파벳.java</url>
-          <line>39</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
