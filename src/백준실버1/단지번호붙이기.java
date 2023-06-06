@@ -39,13 +39,14 @@ public class 단지번호붙이기 {
         for (int i = 0; i < map.length; i++) {
             for (int j = 0; j < map.length; j++) {
                 if(!visited[i][j] && map[i][j] == 1){
-                    int count = 1;
-                    bfs(new Node(i,j),count);
+                    visited[i][j] = true;
+                    bfs(new Node(i,j),1);
                 }
             }
         }
 
         Collections.sort(list);
+
         System.out.println(list.size());
         for (int i = 0; i < list.size(); i++) {
             System.out.println(list.get(i));
@@ -56,7 +57,6 @@ public class 단지번호붙이기 {
         deque.addLast(new Node(node.x,node.y));
         while (!deque.isEmpty()){
             Node now = deque.pollFirst();
-
             for (int i = 0; i < 4; i++) {
                 int nx = now.x + dx[i];
                 int ny = now.y + dy[i];
@@ -66,13 +66,14 @@ public class 단지번호붙이기 {
                 }
 
                 if (!visited[nx][ny]){
-                    System.out.println("sex");
+                    System.out.println("nx = " + nx);
+                    System.out.println("ny = " + ny);
+                    count++;
                     visited[nx][ny] = true;
                     deque.addLast(new Node(nx,ny));
                 }
             }
         }
-        System.out.println("---------------------");
         list.add(count);
     }
 }

@@ -1,4 +1,4 @@
-package BackTracking;
+package KAKAO인턴쉽;
 
 import java.util.HashMap;
 
