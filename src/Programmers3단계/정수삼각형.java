@@ -27,7 +27,6 @@ public class 정수삼각형 {
 
     private static void dfs(int now, int depth, int sum, int[][] triangle , int nowCol) {
 
-        if(no)
         if(depth == triangle.length){
             System.out.println(sum);
             return;
