@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/KAKAO인턴쉽/두개뽑아서더하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KAKAO인턴쉽/소수만들기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KAKAO인턴쉽/숫자문자열과.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/백준실버1/RGB거리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers1단계/소수찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Programmers3단계/정수삼각형.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준실버1/숨바꼭질.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/백준실버1/회의실배정Greedy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BackTracking/모음사전.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KAKAO인턴쉽/모음사전.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/백준실버1/단지번호붙이기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준실버1/단지번호붙이기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/백준실버1/RGB거리.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/백준실버1/RGB거리.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,7 +263,8 @@
       <workItem from="1685778849922" duration="2433000" />
       <workItem from="1685781657652" duration="9957000" />
       <workItem from="1685936498470" duration="22583000" />
-      <workItem from="1685977005069" duration="10025000" />
+      <workItem from="1685977005069" duration="14307000" />
+      <workItem from="1686111135483" duration="9234000" />
     </task>
     <servers />
   </component>
