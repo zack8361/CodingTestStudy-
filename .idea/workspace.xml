@@ -5,18 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/JadenCase문자열만들기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/구명보트.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/숫자의표현.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/영어끝말잇기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/짝지어제거하기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/최댓값과최소값.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/최소값만들기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/카펫.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/피보나치수.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Nx2타일링.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/가장큰정사각형찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/연속부분수열합의개수dfs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/예상대진표구현능력키우기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/호진아뛰어보자.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers2단계/JadenCase문자열.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Programmers3단계/정수삼각형.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Programmers3단계/정수삼각형.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,7 +266,8 @@
       <workItem from="1685781657652" duration="9957000" />
       <workItem from="1685936498470" duration="22583000" />
       <workItem from="1685977005069" duration="14307000" />
-      <workItem from="1686111135483" duration="21789000" />
+      <workItem from="1686111135483" duration="25502000" />
+      <workItem from="1686154058018" duration="3666000" />
     </task>
     <servers />
   </component>
