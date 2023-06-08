@@ -16,7 +16,6 @@ public class Nx2타일링 {
             dp[i] = dp[i-1] + dp[i-2];
             dp[i] %= 1234567;
         }
-
         return dp[n];
     }
 }
