@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/Nx2타일링.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/가장큰정사각형찾기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/연속부분수열합의개수dfs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/예상대진표구현능력키우기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/newProgrammers2단계/호진아뛰어보자.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS2/N과M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS2/두개뽑아서더하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DFSBFS2/바이러스.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DynamicProgramming/평범한배낭.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DFSBFS/네트워크DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DFSBFS/네트워크DFS.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,7 +265,10 @@
       <workItem from="1685936498470" duration="22583000" />
       <workItem from="1685977005069" duration="14307000" />
       <workItem from="1686111135483" duration="25502000" />
-      <workItem from="1686154058018" duration="3666000" />
+      <workItem from="1686154058018" duration="4406000" />
+      <workItem from="1686203889121" duration="1107000" />
+      <workItem from="1686205003980" duration="93000" />
+      <workItem from="1686205100919" duration="7727000" />
     </task>
     <servers />
   </component>

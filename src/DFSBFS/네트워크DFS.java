@@ -1,5 +1,7 @@
 package DFSBFS;
 
+import java.util.Arrays;
+
 public class 네트워크DFS {
     private static int[][] computer;
     private static boolean[] visited;
@@ -25,6 +27,7 @@ public class 네트워크DFS {
 
     private static void dfs(int now){
 
+        System.out.println("Arrays.toString(visited) = " + Arrays.toString(visited));
         if(visited[now]){
             return;
         }
