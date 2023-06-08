@@ -25,25 +25,20 @@ public class 평범한배낭 {
             map[i][0] = W;
             map[i][1] = V;
         }
+        dfs(0,0,0,K,map);
 
-
-        dfs(0,0,0,K);
         System.out.println(max);
     }
 
-    private static void dfs(int now, int sum, int realSum, int k) {
-
-        System.out.println("sum = " + sum);
-
-        if(sum <= k){
-            max = Math.max(max,realSum);
-        }
-        if(sum>=k){
+    private static void dfs(int now, int sum, int realSum, int k,int[][] map) {
+        if(sum>k){
             return;
         }
-
-        for (int i = now; i < map.length; i++) {
-            dfs(now+1,sum + map[i][0], realSum + map[i][1],k);
+        if(sum<=k){
+            max = Math.max(max,realSum);
+        }
+        for (int i = now; i <map.length; i++) {
+            dfs(i+1,sum + map[i][0] , realSum + map[i][1],k,map);
         }
     }
 }
