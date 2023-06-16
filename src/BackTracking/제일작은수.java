@@ -8,10 +8,11 @@ public class 제일작은수 {
     // queue -> 선입 선출 -> FIFO 의 자료구조 형태를 가지고있다.
     public static void main(String[] args) {
         Queue<Integer> queue = new ArrayDeque<>();
-        queue.add(1);
+        queue.add(1); // 얘가 먼저들어왔기 때문에 먼저나간다.
         queue.add(2);
         System.out.println("queue = " + queue);
         System.out.println("queue = " + queue.poll());
+        System.out.println("queue = " + queue);
         stack();
     }
 
@@ -21,7 +22,7 @@ public class 제일작은수 {
 
         Stack<Integer> stack = new Stack<>();
         stack.push(1);
-        stack.push(2);
+        stack.push(2); // 얘가 나중에 들어왔기 때문에 -> 먼저 나간다.
         System.out.println("stack = " + stack);
         System.out.println("stack = " + stack.pop());
     }
