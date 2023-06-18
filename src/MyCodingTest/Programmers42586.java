@@ -39,7 +39,7 @@ public class Programmers42586 {
             }
         }
         list.add(count);
-
+        
         return answer;
     }
 }
