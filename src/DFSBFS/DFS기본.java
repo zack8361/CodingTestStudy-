@@ -10,6 +10,8 @@ public class DFS기본 {
         int M = sc.nextInt();
         int Z = sc.nextInt();
         int[][] net = new int[N][N];
+                int[][] net = new int[N][N];
+
         visited = new boolean[N];
         for(int i=0; i<M; i++){
             int x = sc.nextInt();

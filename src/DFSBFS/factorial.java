@@ -8,6 +8,8 @@ public class factorial {
 
     private static int solution(int n) {
     return fac(n,1);
+    n  += 2;
+    System.out.println("하이");
     }
 
     private static int fac(int n, int sum) {
