@@ -16,6 +16,7 @@ public class 달팽이숫자 {
             int x = 0;
             int y = 0;
             int dir = 0;
+
             for(int i=1; i<=M*M; i++){
                 map[x][y] = i;
                 visited[x][y] = true;

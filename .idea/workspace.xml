@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f4704c0-3edf-4e0d-a636-6158359f8f72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DFSBFS2/class1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newProgrammers/가장짧은문자거리.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newProgrammers/피자배달.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/고득점kitDFS/네트워크.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/고득점kitDFS/단어변환.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/고득점kitDFS/타겟넘버.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SWEAD2/달팽이숫자.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SWEAD2/달팽이숫자.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/재귀함수연습/NM1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/재귀함수연습/NM1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,6 +284,15 @@
       <workItem from="1686995032473" duration="681000" />
       <workItem from="1687069955229" duration="1023000" />
       <workItem from="1687273921300" duration="1719000" />
+      <workItem from="1687418283636" duration="1198000" />
+      <workItem from="1687592504821" duration="474000" />
+      <workItem from="1687605475553" duration="3510000" />
+      <workItem from="1687858660970" duration="68000" />
+      <workItem from="1688634535072" duration="4417000" />
+      <workItem from="1688793610358" duration="1217000" />
+      <workItem from="1689421656118" duration="1423000" />
+      <workItem from="1689496368811" duration="1000000" />
+      <workItem from="1689501427622" duration="4743000" />
     </task>
     <servers />
   </component>

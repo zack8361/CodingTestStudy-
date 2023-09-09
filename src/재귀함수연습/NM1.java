@@ -21,9 +21,8 @@ public class NM1 {
         }
 
         for (int i = now + 1; i <= n; i++) {
-            if(!visited[i-1]){
                 dfs(i,n,m,s +" "+i);
-            }
+
         }
     }
 }
